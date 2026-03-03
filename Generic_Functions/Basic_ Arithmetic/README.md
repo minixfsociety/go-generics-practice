@@ -20,6 +20,7 @@ func sum[T Numbers](numbers []T) T {
     }
     return sum
 }
+
 How to Run
 Bash
 go run main.go
